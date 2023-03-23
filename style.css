@@ -6,7 +6,12 @@ html {
 body {
     background-color: #250921;
     color: #12E9A8;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
+
+/* Begin Fonts */
 
 h1 {
     font-size: 5rem;
@@ -15,3 +20,13 @@ h1 {
 p, li {
     font-size: 1.6rem;
 }
+
+/* end fonts */
+
+/* Begin Containers */
+
+.col-md-8 {
+    width: 66.6666666666667%;
+}
+
+/* end containers */
