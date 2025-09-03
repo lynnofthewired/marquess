@@ -17,6 +17,18 @@ h1 {
     font-size: 5rem;
 }
 
+h2 {
+    font-size: 4rem;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+h4 {
+    font-size: 2.5rem;
+}
+
 p, li {
     font-size: 1.6rem;
 }
@@ -29,7 +41,16 @@ p, li {
     width: 66.6666666666667%;
 }
 .col-md-9 {
-    
+    width: 75%
+}
+.col-md-10 {
+    width: 83.3333333333333%;
+}
+.col-md-11 {
+    width: 91.6666666666667%;
+}
+.col-md-12 {
+    width: 100%
 }
 
 /* end containers */
