@@ -53,4 +53,9 @@ p, li {
     width: 100%
 }
 
+.button {
+    border-width: 1px;
+    border-color: #f00;
+}
+
 /* end containers */
