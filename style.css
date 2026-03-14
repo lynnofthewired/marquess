@@ -4,8 +4,8 @@ html {
 }
 
 body {
-    background-color: #250921;
-    color: #12E9A8;
+    background: linear-gradient(to right, #980093, #333399;
+    color: #ffffff;
     display: flex;
     flex-direction: row;
     justify-content: center;
