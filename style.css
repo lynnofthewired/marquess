@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background: linear-gradient(to right, #980093, #333399;
+    background: linear-gradient(to right, #980093, #333399);
     color: #ffffff;
     display: flex;
     flex-direction: row;
