@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background: linear-gradient(to right, #980093, #333399);
+    background: linear-gradient(to right, #390037, #161640);
     color: #ffffff;
     display: flex;
     flex-direction: row;
@@ -57,5 +57,11 @@ p, li {
     border-width: 1px;
     border-color: #f00;
 }
+
+  /* Container Media Queries */
+
+  
+
+  /* end container media queries */
 
 /* end containers */
